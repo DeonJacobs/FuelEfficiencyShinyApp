@@ -1,0 +1,12 @@
+name: DataProductsFuelEfficiency
+title: DataProductsFuelEfficiency
+username:
+account: deonjacobs
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 258298
+bundleId: 1182534
+url: https://deonjacobs.shinyapps.io/DataProductsFuelEfficiency/
+when: 1516323307.97101
+asMultiple: FALSE
+asStatic: FALSE
